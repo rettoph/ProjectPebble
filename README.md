@@ -19,3 +19,7 @@ _A joint MonoGame engine effort_
 7. Keep code well documented, easy to read, and simple
    - Avoid unnecessary complexity even if its 'cool'.
    - If, for whatever reason, complexity is unavoidable (reflection, IL, ect) create a local readme to document in detail what is going on and why
+8. Embrace existing libraries where possible. No need to re-invent the wheel
+   - Prioritize complex libraries (physics engines, networking, monogame, ect)
+   - Avoid just adding libraries out of lazyness
+   - Use submodules when possible - having local source code makes debugging easier
