@@ -1,6 +1,8 @@
 # Codename: Project Pebble
-###### _A joint MonoGame engine effort_
----
+_A joint MonoGame engine effort_
+<br />
+<br />
+<br />
 
 ## Rules and Goals
 1. Target unit test code coverage: 75%
