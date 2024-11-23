@@ -16,3 +16,6 @@ _A joint MonoGame engine effort_
    - Learn how to setup automated workflows for unit tests
 5. Work together to decide if a feature belongs in the engine or is too specific and belongs in a game
 6. No copy/pasting code. All code must be hand written even if sourced from elsewhere
+7. Keep code well documented, easy to read, and simple
+   - Avoid unnecessary complexity even if its 'cool'.
+   - If, for whatever reason, complexity is unavoidable (reflection, IL, ect) create a local readme to document in detail what is going on and why
